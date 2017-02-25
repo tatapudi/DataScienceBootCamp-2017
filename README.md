@@ -51,7 +51,7 @@
 		
 ### Day 2 - Python 3 ###
 
-**Presenters for Sessions 2 - 4:**
+**Presenters for Sessions 5 - 8:**
 
 1. Aigerim
 2. Hung

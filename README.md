@@ -1,5 +1,7 @@
 # DataScienceBootCamp-2017 #
 
+[Website](https://informs-students-chapter-usf.github.io/DataScienceBootCamp-2017/)
+
 [Organizer & Presenters Sign Up](https://dsbc2017.slack.com/x-132129176709-131973376163/signup)
 
 ## Objectives ##

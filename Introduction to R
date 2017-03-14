@@ -14,8 +14,7 @@
     "Hanisha Tatapudi (tatapudi at mail.usf.edu)\n",
     "\n",
     "WILL EDIT THIS The latest version of this [IPython notebook](http://ipython.org/notebook.html) lecture is available at [http://github.com/jrjohansson/scientific-python-lectures](http://github.com/jrjohansson/scientific-python-lectures).\n",
-    "\n",
-    "The other notebooks in this lecture series are indexed at [http://jrjohansson.github.io](http://jrjohansson.github.io)."
+    "\n"
    ]
   },
   {
@@ -52,7 +51,15 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Let's get started
+    "## Let's get started"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "* In this section, we show off some of the cool stuff you can do in R without understanding anything about programming. Do not worry about understanding everything the code does. Just enjoy! \n",
+    "\n"
    ]
   },
   {
@@ -66,12 +73,15 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "scripts/hello-world-in-swedish.py  scripts/hello-world.py\r\n"
+      "735 320 325 392 524 450 \n"
      ]
     }
    ],
    "source": [
-    "ls scripts/hello-world*.py"
+    "data()  # browse pre-loaded data sets\n",
+    "data(rivers) # get this one: "Lengths of Major North American Rivers"\n",
+    "ls() #notice that "rivers" now appears in the workspace \n"
+    "head(rivers) # peek at the data set, gives us a list of the first six elements in the data set\n"
    ]
   },
   {
